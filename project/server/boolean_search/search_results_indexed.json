@@ -1,0 +1,59 @@
+{
+    "results": [
+        {
+            "query": "гнойный го горе",
+            "data": [
+                {
+                    "url": "https://click-or-die.ru/2020/02/oksimiron-nakonecz-fitanet-s-gnojnym-no-eto-budet-ne-trek-a-akcziya-protiv-dela-seti/",
+                    "title": "Оксимирон наконец объединится с Гнойным. Но это будет не трек, а акция против дела «Сети»"
+                }
+            ],
+            "ranged_value": 0.098
+        },
+        {
+            "query": "-голова голос голосовой",
+            "data": [
+                {
+                    "url": "https://click-or-die.ru/2020/02/5-telediktorov-chej-golos-slyshali-vse-kak-oni-vyglyadyat/",
+                    "title": "5 теледикторов, чей голос слышали все. Как они выглядят?"
+                }
+            ],
+            "ranged_value": 0.0964
+        },
+        {
+            "query": "внешне внешний самый уверять уметь",
+            "data": [
+                {
+                    "url": "https://click-or-die.ru/2020/02/na-ali-zavezli-kachestvennyh-klonov-smartov-samsung-i-huawei-eto-ochen-naglaya-poddelka/",
+                    "title": "Осторожнее покупайте Huawei и Samsung Galaxy на Али. Туда завезли кучу дешевых клонов"
+                }
+            ],
+            "ranged_value": 0.08760000000000001
+        },
+        {
+            "query": "-такой -таков сэмпл локация",
+            "data": [
+                {
+                    "url": "https://click-or-die.ru/2020/02/kak-snimaet-samsung-galaxy-s20-ultra-i-kak-rabotaet-zum-smarta-za-100-tysyach-rublej/",
+                    "title": "Как снимает Samsung Galaxy S20 Ultra? И как работает зум флагмана за 100 тысяч рублей?"
+                }
+            ],
+            "ranged_value": 0.077
+        },
+        {
+            "query": "пункт становиться праздник",
+            "data": [
+                {
+                    "url": "https://click-or-die.ru/2020/02/samsung-galaxy-a51-otdayut-s-zhirnoj-skidkoj-v-megafone-samaya-nizkaya-oficzialnaya-czena-v-rossii/",
+                    "title": "Samsung Galaxy A51 отдают с жирной скидкой в «Мегафоне». Самая низкая официальная цена в России"
+                }
+            ],
+            "ranged_value": 0.04
+        },
+        {
+            "query": "вообще идея низкий плохо покупать",
+            "data": [],
+            "ranged_value": 0.0
+        }
+    ]
+}
